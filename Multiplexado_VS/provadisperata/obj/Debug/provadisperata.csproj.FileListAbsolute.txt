@@ -1,0 +1,30 @@
+C:\Users\Usuario\Documents\Cajal\provadisperata\bin\Debug\provadisperata.exe.config
+C:\Users\Usuario\Documents\Cajal\provadisperata\bin\Debug\provadisperata.exe
+C:\Users\Usuario\Documents\Cajal\provadisperata\bin\Debug\provadisperata.pdb
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.Form1.resources
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.Properties.Resources.resources
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.exe
+C:\Users\Usuario\Documents\Cajal\provadisperata\obj\Debug\provadisperata.pdb
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\bin\Debug\provadisperata.exe.config
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\bin\Debug\provadisperata.exe
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\bin\Debug\provadisperata.pdb
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.Form1.resources
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.Properties.Resources.resources
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.exe
+C:\Users\Usuario\Documents\Cajal\Prácticas\Calibrar Presión\provadisperata\obj\Debug\provadisperata.pdb
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\bin\Debug\provadisperata.exe.config
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\bin\Debug\provadisperata.exe
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\bin\Debug\provadisperata.pdb
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.Form1.resources
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.Properties.Resources.resources
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.exe
+C:\Users\Usuario\Documents\Cajal\Calibrar Presión\provadisperata\obj\Debug\provadisperata.pdb

@@ -1,0 +1,5 @@
+C:\Users\Usuario\OneDrive - Universidad Politécnica de Madrid\Documentos\Cajal\Calibrar Presión\provadisperata\obj\x86\Debug\Multiplexado_VS.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive - Universidad Politécnica de Madrid\Documentos\Cajal\Calibrar Presión\provadisperata\obj\x86\Debug\provadisperata.Form1.resources
+C:\Users\Usuario\OneDrive - Universidad Politécnica de Madrid\Documentos\Cajal\Calibrar Presión\provadisperata\obj\x86\Debug\Multiplexado_VS.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Universidad Politécnica de Madrid\Documentos\Cajal\Calibrar Presión\provadisperata\obj\x86\Debug\Multiplexado_VS.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Universidad Politécnica de Madrid\Documentos\Cajal\Calibrar Presión\provadisperata\obj\x86\Debug\Multiplexado_VS.csproj.CoreCompileInputs.cache
